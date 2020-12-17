@@ -1,3 +1,13 @@
+Hello World,
+This is my first FrontEndMentor challenge I actually finished a couple of month ago. I wasn't super satisfied hence I never shared my solution.
+Very silly, the notion of wanting to do things perfectly.
+I would appreciate if you could share any critique what I could have done better. 
+Happy holidays everyone!
+
+Jacquie
+
+
+
 # Frontend Mentor - Huddle landing page with single introductory section
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
