@@ -1,0 +1,145 @@
+ /*******************TAG SELECTORS********************/
+ body {
+   font-family: 'Open Sans', sans-serif;
+   background-color: #674BAF;
+   color: #fff;
+   margin: 0;
+   text-align: left;
+   font-size: 16px;
+   min-height: 100vh;
+
+   /* background-image: url("../images/bg-desktop.svg"); */
+
+ }
+
+ h1 {
+   font-family: 'Poppins', sans-serif;
+   font-weight: 700;
+   padding: 2%;
+
+    }
+
+ h2, h3, h4, h5, h6 {
+   font-family: 'Poppins', sans-serif;
+   font-weight: 400;
+ }
+
+ /*******************CLASS SELECTORS********************/
+ .container {
+   padding: 3% 5% 3% 2%;
+   margin: 0;
+   text-align: left;
+ }
+
+ .logo-image{
+width: 30%;
+ }
+
+ .container-fluid {
+padding-top: 4%  ;
+/* margin: 0 2em; */
+ }
+
+
+ /* .col-sm-4{
+   padding: 0 3em;
+ }
+
+ .col-sm-7 {
+   padding: 0 0 0 4em;
+ }
+ */
+
+ .main-image {
+   width: 100%;
+   position: absolute;
+ }
+
+ /* .text-section {
+   width: 70%;x
+ }*/
+ .btn-circle {
+   background-color: #fff;
+   border-style: solid;
+   border-color: white;
+   color: #674BAF;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+   border-radius: 40px;
+   padding: 15px 80px;
+   font-family: 'Open Sans', sans-serif;
+ }
+
+ .text-section {
+   padding-top: 40px;
+   padding-left: 45px;
+   width: 85%;
+ }
+
+ /* Footer section */
+ .social-contacts {
+   text-align: right;
+   margin: 0% 6% 5%;
+ }
+
+ .attribution {
+   text-align: center;
+   padding-top: 2em;
+ }
+
+ .footer-icon {
+   margin: 0 5px;
+   border-radius: 50%;
+   border: 1px;
+   border-color: #fff;
+   border-style: solid;
+   font-size: 20px;
+   padding: 1%;
+ }
+
+ /*******************ID SELECTORS********************/
+ /*******************MEDIA SELECTORS********************/
+ @media (min-width: 375px) {
+   body {
+     background-image: url("../images/bg-mobile.svg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     max-width: 100%;
+     text-align:center;
+     
+
+   }
+   .logo-image{
+   width: 30%;
+   }
+/* .col-sm-7 {
+  width: 100%;
+}*/
+
+   .main-image {
+     position: relative;
+     padding: 3%;
+
+   }
+ }
+
+ @media (min-width: 767px) {
+   body {
+     background-image: url("../images/bg-desktop.svg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     max-width: 100%;
+     text-align: left;
+
+
+  }
+
+   .main-image {
+     position: relative;
+     width: 100%;
+     padding: 0% 3%;
+   }
+ }
