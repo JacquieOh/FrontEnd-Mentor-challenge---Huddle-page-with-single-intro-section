@@ -1,3 +1,5 @@
+Updated version after some feedback 
+
 Hello World,
 This is my first FrontEndMentor challenge I actually finished a couple of month ago. I wasn't super satisfied hence I never shared my solution.
 Very silly, the notion of wanting to do things perfectly.
